@@ -1,0 +1,2 @@
+# First_Craw
+基于python3的urllib模块和beautifulsoup的实现百度百科python词条相关页面的爬取
